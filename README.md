@@ -10,4 +10,4 @@
 - 📫 How to reach me: dszeto@bu.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 
-- 💼 Professional experience: Cancer Diagnostics with Data Analysis 
+- 💼 Profession: Cancer Diagnostics with Data Analysis 
